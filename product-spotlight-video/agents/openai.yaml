@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Spotlight Video"
+  short_description: "Turn product photos into light-switch video ads"
+  default_prompt: "Use $product-spotlight-video to turn my product photo into a short ad with individual spotlights, switch sounds and a final all-on reveal."
